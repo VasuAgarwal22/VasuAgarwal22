@@ -1,184 +1,151 @@
-<!-- ========================= HEADER ========================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:3B82F6&height=210&section=header&text=Vasu%20Agarwal&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20Backend%20Developer&descSize=20&descAlignY=58" alt="Vasu Agarwal header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:2563EB&height=200&section=header&text=Vasu%20Agarwal&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20Backend%20Developer&descSize=19&descAlignY=59" alt="Vasu Agarwal — Java Backend Developer" width="100%" />
 
-<a href="https://github.com/VasuAgarwal22">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=640&lines=Java+Backend+Developer;Building+REST+APIs+with+Spring+Boot;500%2B+problems+solved+on+CodeChef;Learning+System+Design+%26+Advanced+Java" alt="Typing animation" />
+<a href="https://vasu16-portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/vasuagarwal-dev/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://drive.google.com/file/d/1otVFjA0sUEAi8MeiazHwY7IbOwmqrY7l/view">
+  <img src="https://img.shields.io/badge/Resume-View-1D4ED8?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+</a>
+<a href="mailto:avasu769@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br/>
 
-<a href="https://vasu16-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/vasuagarwal-dev/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:avasu769@gmail.com"><img src="https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://drive.google.com/file/d/1otVFjA0sUEAi8MeiazHwY7IbOwmqrY7l/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-1E40AF?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=VasuAgarwal22&label=Profile%20views&color=0A66C2&style=flat-square" alt="Profile views"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=680&lines=Java+%7C+Spring+Boot+%7C+Backend+Development;Building+REST+APIs+and+server-side+applications;500%2B+CodeChef+problems+solved;Learning+Advanced+Java+and+System+Design" alt="Developer focus areas" />
 
 </div>
 
 ---
 
-## 👋 About Me
+## About Me
 
-Hi, I'm **Vasu**, a fresher and **Java Backend Developer** who enjoys building clean, secure server-side applications with **Spring Boot**. I like turning problems into working systems, whether that's a banking app, a real-time chat service, or a DSA problem at midnight.
+Hi, I'm **Vasu Agarwal**, a fresher focused on **Java backend development**. I enjoy designing and building practical applications, learning backend engineering concepts, and strengthening my problem-solving skills through data structures and algorithms.
 
-- 🔭 Currently building the **Urban Flood Nowcasting System** for the **SIH 2026** internal hackathon
-- 🔬 Working on research related to **Loan Default Risk Prediction**
-- 🌱 Learning **Advanced Java, Spring Security, System Design** and **React**
-- 💬 Open to talk about backend development, DSA and new opportunities
-
----
-
-## 🛠️ Tech Stack
-
-**Backend**
-
-![Java](https://img.shields.io/badge/Java-0A66C2?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-2563EB?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-1D4ED8?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate/JPA-3B82F6?style=for-the-badge&logo=hibernate&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-1E40AF?style=for-the-badge&logo=fastapi&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-0A66C2?style=for-the-badge&logo=openjdk&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-2563EB?style=for-the-badge&logo=apachemaven&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-3B82F6?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1D4ED8?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-0A66C2?style=for-the-badge&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-2563EB?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-3B82F6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1D4ED8?style=for-the-badge&logo=javascript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A66C2?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Languages, Tools & Fundamentals**
-
-![C++](https://img.shields.io/badge/C++-2563EB?style=for-the-badge&logo=cplusplus&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-3B82F6?style=for-the-badge&logo=thealgorithms&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1D4ED8?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-2563EB?style=for-the-badge&logo=postman&logoColor=white)
+- 🔭 Working on an **Urban Flood Nowcasting System** for the SIH 2026 internal hackathon.
+- 🔬 Exploring research related to **Loan Default Risk Prediction**.
+- 🌱 Currently learning **Advanced Java, Spring Security, System Design, and React**.
+- 💡 Interested in backend development, API design, databases, and secure application development.
+- 🤝 Open to connecting about software development, collaborative projects, and opportunities.
 
 ---
 
-## 🚀 Featured Projects
+## Technical Skills
+
+| Area | Technologies |
+|---|---|
+| **Languages** | Java, C++, JavaScript |
+| **Backend** | Spring Boot, Spring MVC, Spring Security, REST APIs, JDBC |
+| **Persistence** | Hibernate, JPA |
+| **Databases** | MySQL, PostgreSQL |
+| **Frontend** | React, HTML5, CSS3, Tailwind CSS |
+| **Tools** | Git, GitHub, Maven, Postman |
+| **Core Concepts** | Object-Oriented Programming, Data Structures and Algorithms |
+
+---
+
+## Featured Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏦 SmartBankApplication
-A banking application built on the Spring Boot stack.
-
-**Tech:** Java · Spring Boot · Hibernate · MySQL · Maven
-
-[![View Repo](https://img.shields.io/badge/View_Repo-0A66C2?style=flat-square&logo=github)](https://github.com/VasuAgarwal22/SmartBankApplication)
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 Chatting System
-A real-time chat application with live messaging over WebSocket.
-
-**Tech:** Java · Spring Boot · WebSocket · SockJS · STOMP
-
-[![View Repo](https://img.shields.io/badge/View_Repo-0A66C2?style=flat-square&logo=github)](https://github.com/VasuAgarwal22/Chatting_System)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 FileHider
-A file security and hiding application.
-
-**Tech:** Java
-
-[![View Repo](https://img.shields.io/badge/View_Repo-0A66C2?style=flat-square&logo=github)](https://github.com/VasuAgarwal22/FileHider)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 Hospital Management System
-Hospital and patient management.
-
-**Tech:** Java · MySQL
-
-[![View Repo](https://img.shields.io/badge/View_Repo-0A66C2?style=flat-square&logo=github)](https://github.com/VasuAgarwal22/Hospital_Managment_System)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🛒 Retail Inventory Management
-Retail inventory and product management.
-
-[![View Repo](https://img.shields.io/badge/View_Repo-0A66C2?style=flat-square&logo=github)](https://github.com/VasuAgarwal22/Retail_Inventory_Managment)
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>SmartBankApplication</h3>
+      <p>A banking application built with the Spring Boot ecosystem.</p>
+      <p><strong>Tech:</strong> Java · Spring Boot · Hibernate · MySQL · Maven</p>
+      <a href="https://github.com/VasuAgarwal22/SmartBankApplication">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Chatting System</h3>
+      <p>A real-time chat application using WebSocket-based messaging.</p>
+      <p><strong>Tech:</strong> Java · Spring Boot · WebSocket · SockJS · STOMP</p>
+      <a href="https://github.com/VasuAgarwal22/Chatting_System">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>FileHider</h3>
+      <p>A Java project focused on file hiding and protection.</p>
+      <p><strong>Tech:</strong> Java</p>
+      <a href="https://github.com/VasuAgarwal22/FileHider">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Hospital Management System</h3>
+      <p>An application for hospital-related management workflows.</p>
+      <p><strong>Tech:</strong> Java · MySQL</p>
+      <a href="https://github.com/VasuAgarwal22/Hospital_Managment_System">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>Retail Inventory Management</h3>
+      <p>A project focused on retail products and inventory management.</p>
+      <a href="https://github.com/VasuAgarwal22/Retail_Inventory_Managment">View repository →</a>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 🏆 Achievements
+## Problem Solving & Achievements
 
-### 💻 Competitive Programming
-- ✅ Solved **500 problems** on [CodeChef](https://www.codechef.com/users/v_agarwal05)
-- 🥈 Participated in **25 CodeChef contests** and earned the **Contest Contender Silver Badge**
-- 🔥 Earned CodeChef **50-day and 100-day problem-solving streak badges** (2025 and 2026)
-- 🏅 Earned **23 GeeksforGeeks awards** across DSA topics ([profile](https://www.geeksforgeeks.org/profile/v_agarwal05))
+- **500 problems solved on CodeChef.**
+- Participated in **25 CodeChef contests** and earned the **Contest Contender Silver Badge**.
+- Earned **50-day and 100-day CodeChef problem-solving streak badges**.
+- Earned **23 GeeksforGeeks awards** across data structures and algorithms topics.
 
-### 🎓 Courses & Certifications
-- GeeksforGeeks **Data Structures and Algorithms Complete Course (C++ & Java)**, 81 hours
-- **DSA with Java Bootcamp** by LetsUpgrade
-- **Build Your First AI Model in Just 3 Days** by LetsUpgrade
-- HackerRank: **Java (Basic)**, **Problem Solving (Basic)**, **CSS (Basic)**
+### Courses & Certifications
 
-### 🔬 In Progress
-- **Urban Flood Nowcasting System** for the SIH 2026 internal hackathon
-- Research on **Loan Default Risk Prediction**
+- **Data Structures and Algorithms Complete Course (C++ & Java)** — GeeksforGeeks, 81 hours.
+- **DSA with Java Bootcamp** — LetsUpgrade.
+- **Build Your First AI Model in Just 3 Days** — LetsUpgrade.
+- **HackerRank:** Java (Basic), Problem Solving (Basic), and CSS (Basic).
 
 ---
 
-## 📊 GitHub Stats
+## Current Focus
+
+- Developing the **Urban Flood Nowcasting System** for the SIH 2026 internal hackathon.
+- Exploring **Loan Default Risk Prediction** research.
+- Improving backend engineering skills with **Spring Boot and Spring Security**.
+- Learning **System Design** and continuing DSA practice.
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=VasuAgarwal22&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasuAgarwal22&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VasuAgarwal22&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&text_color=C9D1D9" alt="Vasu's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasuAgarwal22&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" alt="Most-used languages" />
 
-<img src="https://streak-stats.demolab.com/?user=VasuAgarwal22&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com/?user=VasuAgarwal22&hide_border=true&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-## 🌐 Find Me Online
+## Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/VasuAgarwal22"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=3B82F6" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/vasuagarwal-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://leetcode.com/u/VasuAgarwal16/"><img src="https://img.shields.io/badge/LeetCode-2563EB?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-<a href="https://www.codechef.com/users/v_agarwal05"><img src="https://img.shields.io/badge/CodeChef-1D4ED8?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
-<a href="https://www.geeksforgeeks.org/profile/v_agarwal05"><img src="https://img.shields.io/badge/GeeksforGeeks-3B82F6?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
-<a href="https://vasu16-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1E40AF?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
+<a href="https://github.com/VasuAgarwal22">GitHub</a> ·
+<a href="https://www.linkedin.com/in/vasuagarwal-dev/">LinkedIn</a> ·
+<a href="https://leetcode.com/u/VasuAgarwal16/">LeetCode</a> ·
+<a href="https://www.codechef.com/users/v_agarwal05">CodeChef</a> ·
+<a href="https://www.geeksforgeeks.org/profile/v_agarwal05">GeeksforGeeks</a> ·
+<a href="https://vasu16-portfolio.netlify.app/">Portfolio</a>
 
 <br/><br/>
 
-**📫 Reach me at [avasu769@gmail.com](mailto:avasu769@gmail.com)**
+**Email:** [avasu769@gmail.com](mailto:avasu769@gmail.com)
 
-<br/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:0A66C2&height=110&section=footer" alt="footer" width="100%"/>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0A66C2&height=100&section=footer" alt="" width="100%" />
 </div>
