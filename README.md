@@ -1,54 +1,184 @@
-# 💫 About Me:
-🔭 I'm currently working on:<br>
-Java backend applications using Spring Boot, REST APIs, React-based full-stack projects, and Data Structures & Algorithms practice.<br><br>
+<!-- ========================= HEADER ========================= -->
+<div align="center">
 
-👯 I'm looking to collaborate on:<br>
-Java, Spring Boot, Full Stack Development, backend projects, and open-source contributions.<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:3B82F6&height=210&section=header&text=Vasu%20Agarwal&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20Backend%20Developer&descSize=20&descAlignY=58" alt="Vasu Agarwal header" width="100%"/>
 
-🤝 I'm looking for help with:<br>
-System Design, Microservices, Cloud (AWS), advanced Backend Development, and competitive programming.<br><br>
+<a href="https://github.com/VasuAgarwal22">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=640&lines=Java+Backend+Developer;Building+REST+APIs+with+Spring+Boot;500%2B+problems+solved+on+CodeChef;Learning+System+Design+%26+Advanced+Java" alt="Typing animation" />
+</a>
 
-🌱 I'm currently learning:<br>
-Spring Boot, React.js, Hibernate, REST APIs, JWT Authentication, SQL, System Design, and DSA.<br><br>
+<br/>
 
-💬 Ask me about:<br>
-Java, Spring Boot, Data Structures & Algorithms, OOP, SQL, REST APIs, and Backend Development.<br><br>
+<a href="https://vasu16-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/vasuagarwal-dev/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:avasu769@gmail.com"><img src="https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://drive.google.com/file/d/1otVFjA0sUEAi8MeiazHwY7IbOwmqrY7l/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-1E40AF?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
 
-⚡ Fun fact:<br>
-I enjoy solving DSA problems and building scalable Java applications with clean and efficient code.<br>
+<br/><br/>
 
-## 🌐 Socials:
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasuAgarwal22)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100068850376021)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasu-agarwal-27a18a339/)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/VasuAgarwal991)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avasu769@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=VasuAgarwal22&label=Profile%20views&color=0A66C2&style=flat-square" alt="Profile views"/>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%23025E8C.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VasuAgarwal22&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VasuAgarwal22&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VasuAgarwal22&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VasuAgarwal22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VasuAgarwal22&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 👋 About Me
+
+Hi, I'm **Vasu**, a fresher and **Java Backend Developer** who enjoys building clean, secure server-side applications with **Spring Boot**. I like turning problems into working systems, whether that's a banking app, a real-time chat service, or a DSA problem at midnight.
+
+- 🔭 Currently building the **Urban Flood Nowcasting System** for the **SIH 2026** internal hackathon
+- 🔬 Working on research related to **Loan Default Risk Prediction**
+- 🌱 Learning **Advanced Java, Spring Security, System Design** and **React**
+- 💬 Open to talk about backend development, DSA and new opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-0A66C2?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-2563EB?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-1D4ED8?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate/JPA-3B82F6?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-1E40AF?style=for-the-badge&logo=fastapi&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-0A66C2?style=for-the-badge&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-2563EB?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-3B82F6?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1D4ED8?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-0A66C2?style=for-the-badge&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-2563EB?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-3B82F6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1D4ED8?style=for-the-badge&logo=javascript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A66C2?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Languages, Tools & Fundamentals**
+
+![C++](https://img.shields.io/badge/C++-2563EB?style=for-the-badge&logo=cplusplus&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-3B82F6?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1D4ED8?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-2563EB?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏦 SmartBankApplication
+A banking application built on the Spring Boot stack.
+
+**Tech:** Java · Spring Boot · Hibernate · MySQL · Maven
+
+[![View Repo](https://img.shields.io/badge/View_Repo-0A66C2?style=flat-square&logo=github)](https://github.com/VasuAgarwal22/SmartBankApplication)
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 Chatting System
+A real-time chat application with live messaging over WebSocket.
+
+**Tech:** Java · Spring Boot · WebSocket · SockJS · STOMP
+
+[![View Repo](https://img.shields.io/badge/View_Repo-0A66C2?style=flat-square&logo=github)](https://github.com/VasuAgarwal22/Chatting_System)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 FileHider
+A file security and hiding application.
+
+**Tech:** Java
+
+[![View Repo](https://img.shields.io/badge/View_Repo-0A66C2?style=flat-square&logo=github)](https://github.com/VasuAgarwal22/FileHider)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 Hospital Management System
+Hospital and patient management.
+
+**Tech:** Java · MySQL
+
+[![View Repo](https://img.shields.io/badge/View_Repo-0A66C2?style=flat-square&logo=github)](https://github.com/VasuAgarwal22/Hospital_Managment_System)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🛒 Retail Inventory Management
+Retail inventory and product management.
+
+[![View Repo](https://img.shields.io/badge/View_Repo-0A66C2?style=flat-square&logo=github)](https://github.com/VasuAgarwal22/Retail_Inventory_Managment)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements
+
+### 💻 Competitive Programming
+- ✅ Solved **500 problems** on [CodeChef](https://www.codechef.com/users/v_agarwal05)
+- 🥈 Participated in **25 CodeChef contests** and earned the **Contest Contender Silver Badge**
+- 🔥 Earned CodeChef **50-day and 100-day problem-solving streak badges** (2025 and 2026)
+- 🏅 Earned **23 GeeksforGeeks awards** across DSA topics ([profile](https://www.geeksforgeeks.org/profile/v_agarwal05))
+
+### 🎓 Courses & Certifications
+- GeeksforGeeks **Data Structures and Algorithms Complete Course (C++ & Java)**, 81 hours
+- **DSA with Java Bootcamp** by LetsUpgrade
+- **Build Your First AI Model in Just 3 Days** by LetsUpgrade
+- HackerRank: **Java (Basic)**, **Problem Solving (Basic)**, **CSS (Basic)**
+
+### 🔬 In Progress
+- **Urban Flood Nowcasting System** for the SIH 2026 internal hackathon
+- Research on **Loan Default Risk Prediction**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=VasuAgarwal22&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasuAgarwal22&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com/?user=VasuAgarwal22&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak"/>
+
+</div>
+
+---
+
+## 🌐 Find Me Online
+
+<div align="center">
+
+<a href="https://github.com/VasuAgarwal22"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=3B82F6" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/vasuagarwal-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/VasuAgarwal16/"><img src="https://img.shields.io/badge/LeetCode-2563EB?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+<a href="https://www.codechef.com/users/v_agarwal05"><img src="https://img.shields.io/badge/CodeChef-1D4ED8?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+<a href="https://www.geeksforgeeks.org/profile/v_agarwal05"><img src="https://img.shields.io/badge/GeeksforGeeks-3B82F6?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+<a href="https://vasu16-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1E40AF?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
+
+<br/><br/>
+
+**📫 Reach me at [avasu769@gmail.com](mailto:avasu769@gmail.com)**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:0A66C2&height=110&section=footer" alt="footer" width="100%"/>
+
+</div>
